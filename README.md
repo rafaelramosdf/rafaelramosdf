@@ -1,7 +1,7 @@
 # 🌌 Olá, eu sou o Rafael Ramos! 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer%20%20%7C%20Since%202012-00ffcc?style=for-the-badge&logo=codefactor&logoColor=black" alt="Software Engineer Since 2012" />
+  <img src="https://img.shields.io/badge/Software%20Engineer%20%20%7C%20Since%202012-ff007f?style=for-the-badge&logo=codefactor&logoColor=white" alt="Software Engineer Since 2012" />
   <img src="https://img.shields.io/badge/Co--Founder%20%26%20Tech%20Lead-7000ff?style=for-the-badge&logo=dependabot&logoColor=white" alt="Co-Founder & Tech Lead" />
   <img src="https://img.shields.io/badge/Bras%C3%ADlia%2C%20Brasil-ff007f?style=for-the-badge&logo=google-maps&logoColor=white" alt="Brasília, Brasil" />
 </p>
@@ -29,7 +29,7 @@ Minha atuação principal está na intersecção entre engenharia robusta e inov
       • <b>System Design & Software Architecture</b> <br />
       • APIs REST & Microsserviços <br />
       • <b>Linguagens & Frameworks:</b> <br />
-      &nbsp;&nbsp; - .NET 9 / C# <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET 9" align="center" /> <br />
+      &nbsp;&nbsp; - .NET / C# <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET" align="center" /> <br />
       &nbsp;&nbsp; - Java <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" align="center" /> <br />
       &nbsp;&nbsp; - Python <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" align="center" />
     </td>
