@@ -29,17 +29,17 @@ Minha atuação principal está na intersecção entre engenharia robusta e inov
       • <b>System Design & Software Architecture</b> <br />
       • APIs REST & Microsserviços <br />
       • <b>Linguagens & Frameworks:</b> <br />
-      &nbsp;&nbsp; - .NET 9 / C# ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=.net&logoColor=white) <br />
-      &nbsp;&nbsp; - Java ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) <br />
-      &nbsp;&nbsp; - Python ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+      &nbsp;&nbsp; - .NET 9 / C# <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET 9" align="center" /> <br />
+      &nbsp;&nbsp; - Java <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" align="center" /> <br />
+      &nbsp;&nbsp; - Python <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" align="center" />
     </td>
     <td width="50%" valign="top">
       <h4>☁️ Cloud & Infrastructure</h4>
       • <b>Cloud Providers:</b> <br />
-      &nbsp;&nbsp; - Microsoft Azure ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) <br />
-      &nbsp;&nbsp; - AWS ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) <br />
+      &nbsp;&nbsp; - Microsoft Azure <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" align="center" /> <br />
+      &nbsp;&nbsp; - AWS <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" align="center" /> <br />
       • <b>BaaS & Databases:</b> <br />
-      &nbsp;&nbsp; - Supabase (Auth / DB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) <br />
+      &nbsp;&nbsp; - Supabase (Auth / DB) <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" align="center" /> <br />
       &nbsp;&nbsp; - PostgreSQL & SQL Server
     </td>
   </tr>
@@ -48,16 +48,16 @@ Minha atuação principal está na intersecção entre engenharia robusta e inov
       <h4>🤖 AI & Workflow Automation</h4>
       • <b>Arquitetura de Agentes de IA</b> <br />
       • <b>Ferramentas & Inteligência:</b> <br />
-      &nbsp;&nbsp; - N8N ![N8N](https://img.shields.io/badge/N8N-FF6C37?style=flat-square&logo=n8n&logoColor=white) <br />
-      &nbsp;&nbsp; - Gemini API ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
+      &nbsp;&nbsp; - N8N <img src="https://img.shields.io/badge/N8N-FF6C37?style=flat-square&logo=n8n&logoColor=white" alt="N8N" align="center" /> <br />
+      &nbsp;&nbsp; - Gemini API <img src="https://img.shields.io/badge/Gemini%20API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" align="center" />
     </td>
     <td width="50%" valign="top">
       <h4>🎨 Frontend & Mobile</h4>
       • <b>Frameworks & SPAs:</b> <br />
-      &nbsp;&nbsp; - Blazor WASM ![Blazor](https://img.shields.io/badge/Blazor%20WASM-512BD4?style=flat-square&logo=blazor&logoColor=white) <br />
-      &nbsp;&nbsp; - Angular ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) <br />
+      &nbsp;&nbsp; - Blazor WASM <img src="https://img.shields.io/badge/Blazor%20WASM-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" align="center" /> <br />
+      &nbsp;&nbsp; - Angular <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" align="center" /> <br />
       • <b>Mobile Development:</b> <br />
-      &nbsp;&nbsp; - Flutter ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+      &nbsp;&nbsp; - Flutter <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" align="center" />
     </td>
   </tr>
 </table>
