@@ -1,65 +1,94 @@
-# Hi there, I'm Rafael Ramos! 👋
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-007ACC?style=for-the-badge&logo=.net&logoColor=white" alt="Senior Software Engineer" />
-  <img src="https://img.shields.io/badge/Tech%20Co--Founder-10B981?style=for-the-badge&logo=supabase&logoColor=white" alt="Tech Co-Founder" />
-  <img src="https://img.shields.io/badge/Based%20in-Bras%C3%ADlia,%20Brazil-ED1C24?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-</p>
-
----
-
-### 🚀 About Me
-
-I am a **Senior Software Engineer** and **Tech Co-Founder** dedicated to architecting scalable systems, building high-performance web applications, and integrating cutting-edge AI features into digital products. With a strong entrepreneurial mindset, I bridge the gap between complex technical engineering and business value.
-
-- 🛠️ **Core Expertise:** Enterprise-grade backend systems, modern Single Page Applications (SPA), cloud-native architectures, and automated SaaS pipelines.
-- 💡 **Innovation Focus:** Leveraging Large Language Models (LLMs), AI image/video generation APIs, and custom workflow automation to build next-gen software platforms.
-- 👥 **Leadership:** Co-running a software house, managing product lifecycles from concept to production, and making critical architectural decisions.
-
----
-
-### 💻 Tech Stack & Tools
-
-With a primary focus on the modern Microsoft ecosystem paired with modern cloud infrastructures and AI capabilities:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & Core** | ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Frontend** | ![Blazor WASM](https://img.shields.io/badge/Blazor%20WASM-512BD4?style=flat-square&logo=blazor&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Cloud & Backend-as-a-Service** | ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-| **AI Integration** | ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) |
-
----
-
-### 📈 GitHub Ecosystem
+# 🌌 Olá, eu sou o Rafael Ramos! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelramosdf&show_icons=true&theme=visual_studio_code&count_private=true&hide_border=true" alt="Rafael's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramosdf&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/Software%20Engineer%20%20%7C%20Since%202012-00ffcc?style=for-the-badge&logo=codefactor&logoColor=black" alt="Software Engineer Since 2012" />
+  <img src="https://img.shields.io/badge/Co--Founder%20%26%20Tech%20Lead-7000ff?style=for-the-badge&logo=dependabot&logoColor=white" alt="Co-Founder & Tech Lead" />
+  <img src="https://img.shields.io/badge/Bras%C3%ADlia%2C%20Brasil-ff007f?style=for-the-badge&logo=google-maps&logoColor=white" alt="Brasília, Brasil" />
 </p>
 
 ---
 
-### 🛠️ Featured & Recent Initiatives
+### ⚡ Sobre Mim / Overview
 
-* **SaaS Platforms:** Architecting production-ready platforms utilizing multi-tenant structures, custom subscription tiers, and heavy credit/token consumption systems.
-* **AI-Driven Solutions:** Designing background pipelines to orchestrate prompts, handle secure API mesh-ups, and automate high-fidelity graphic outputs for modern web ecosystems.
-* **Cloud Architecture & CI/CD:** Optimizing deployment workflows in Azure and integrating highly reliable decoupled backends with Supabase for lightning-fast frontend delivery.
+Atuo como **Engenheiro de Software Sênior** e **Co-founder** de uma software house. Desde **2012**, venho construindo sistemas corporativos de alta performance, especializando-me fortemente no desenvolvimento **Backend**, **Cloud Computing** e **Banco de Dados**.
+
+Minha atuação principal está na intersecção entre engenharia robusta e inovação de ponta. Sou focado em transformar problemas complexos de negócios em softwares altamente escaláveis, desenhando desde arquiteturas tradicionais baseadas em **Microsserviços** e **APIs REST** até soluções modernas de **System Design** e **Arquitetura de Agentes de IA**.
+
+- 🌐 **Core Engineering:** Sólida experiência na criação de sistemas resilientes, ecossistemas distribuídos e modelagem de dados complexos.
+- 🧠 **AI & Automation:** Implementação avançada de Inteligência Artificial, integração de LLMs (como Gemini API) e orquestração de fluxos autônomos com N8N.
+- 🚀 **Product Delivery:** Liderança técnica e governança arquitetural, gerenciando o ciclo de vida completo de produtos e plataformas SaaS.
 
 ---
 
-### 📫 Connect with me
+### 🛠️ Tech Stack & Ecossistema Técnico
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Arquitetura & Core Backend</h4>
+      • <b>System Design & Software Architecture</b> <br />
+      • APIs REST & Microsserviços <br />
+      • <b>Linguagens & Frameworks:</b> <br />
+      &nbsp;&nbsp; - .NET 9 / C# ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=.net&logoColor=white) <br />
+      &nbsp;&nbsp; - Java ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) <br />
+      &nbsp;&nbsp; - Python ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud & Infrastructure</h4>
+      • <b>Cloud Providers:</b> <br />
+      &nbsp;&nbsp; - Microsoft Azure ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) <br />
+      &nbsp;&nbsp; - AWS ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) <br />
+      • <b>BaaS & Databases:</b> <br />
+      &nbsp;&nbsp; - Supabase (Auth / DB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) <br />
+      &nbsp;&nbsp; - PostgreSQL & SQL Server
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI & Workflow Automation</h4>
+      • <b>Arquitetura de Agentes de IA</b> <br />
+      • <b>Ferramentas & Inteligência:</b> <br />
+      &nbsp;&nbsp; - N8N ![N8N](https://img.shields.io/badge/N8N-FF6C37?style=flat-square&logo=n8n&logoColor=white) <br />
+      &nbsp;&nbsp; - Gemini API ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend & Mobile</h4>
+      • <b>Frameworks & SPAs:</b> <br />
+      &nbsp;&nbsp; - Blazor WASM ![Blazor](https://img.shields.io/badge/Blazor%20WASM-512BD4?style=flat-square&logo=blazor&logoColor=white) <br />
+      &nbsp;&nbsp; - Angular ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) <br />
+      • <b>Mobile Development:</b> <br />
+      &nbsp;&nbsp; - Flutter ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Core Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelramosdf&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rafael's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramosdf&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🚀 Experiências & Iniciativas em Destaque
+
+* **Desenvolvimento de Plataformas SaaS:** Concepção estrutural e arquitetura de ecossistemas complexos com controle rigoroso de créditos/tokens, múltiplos níveis de assinatura e alta disponibilidade.
+* **Engenharia de IA Generativa:** Construção de pipelines inteligentes em segundo plano para automação de prompts, orquestração de APIs e processamento de mídia em escala.
+* **Modernização de Sistemas:** Migração estratégica de monólitos para arquiteturas cloud-native baseadas em contêineres e comunicações assíncronas desacopladas.
+
+---
+
+### 🔗 Conecte-se Comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rafaelramosdf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:your.email@domain.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rafael Ramos | LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication. Building the future of web applications, one line at a time."</i>
+  <sub><i>"A simplicidade é o último grau da sofisticação. Codificando soluções robustas e inteligentes para os desafios de amanhã."</i></sub>
 </p>
