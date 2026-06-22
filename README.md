@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer%20%20%7C%20Since%202012-ff007f?style=for-the-badge&logo=codefactor&logoColor=white" alt="Software Engineer Since 2012" />
   <img src="https://img.shields.io/badge/Co--Founder%20%26%20Tech%20Lead-7000ff?style=for-the-badge&logo=dependabot&logoColor=white" alt="Co-Founder & Tech Lead" />
-  <img src="https://img.shields.io/badge/Bras%C3%ADlia%2C%20Brasil-ff007f?style=for-the-badge&logo=google-maps&logoColor=white" alt="Brasília, Brasil" />
+  <img src="https://img.shields.io/badge/Bras%C3%ADlia%2C%20Brasil-3ECF8E?style=for-the-badge&logo=google-maps&logoColor=white" alt="Brasília, Brasil" />
 </p>
 
 ---
